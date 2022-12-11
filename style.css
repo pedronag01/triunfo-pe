@@ -85,16 +85,16 @@ body{
   }
   
   section.module.parallax-3{
-    background-image: url("./triunfo\ noite.webp");
+    background-image: url("./final2.jpg");
   }
   section.module.parallax-4{
-    background-image: url("./cristo-redentor-no-pico-do-papagaio-editada.jpg");
+    background-image: url("http://4.bp.blogspot.com/-PEx9s7gfFKs/UXWatLwD4sI/AAAAAAAABtE/KS8x0v0u10M/s1600/DSC05722.JPG");
   }
   section.module.parallax-5{
     background-image: url("./cine.jpg");
   }
   section.module.parallax-6{
-    background-image: url("./chuva.jpg");
+    background-image: url("./clima4.webp");
   }
   section.module.parallax-7{
     background-image: url("./amarelo.jpg");
@@ -104,7 +104,7 @@ body{
 
   }
   section.module.parallax-9{
-    background-image: url("./triunfo2.jpg");
+    background-image: url("./final.jpg");
 
   }
 
@@ -138,4 +138,6 @@ body{
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
   }
- 
+ img{
+  width: 300px;
+ }
