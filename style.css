@@ -88,13 +88,24 @@ body{
     background-image: url("./triunfo\ noite.webp");
   }
   section.module.parallax-4{
-    background-image: url("./curva.jpg");
+    background-image: url("./cristo-redentor-no-pico-do-papagaio-editada.jpg");
   }
   section.module.parallax-5{
     background-image: url("./cine.jpg");
   }
   section.module.parallax-6{
     background-image: url("./chuva.jpg");
+  }
+  section.module.parallax-7{
+    background-image: url("./amarelo.jpg");
+  }
+  section.module.parallax-8{
+    background-image: url("./careta.webp");
+
+  }
+  section.module.parallax-9{
+    background-image: url("./triunfo2.jpg");
+
   }
 
   section.module.parallax h1{
@@ -122,10 +133,9 @@ body{
       font-size: 36px;
     }
   }
-  img{
-    width: 320px;
-  }
+  
   footer{
-    background: black;
-    color: white;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
   }
+ 
