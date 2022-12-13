@@ -3,6 +3,10 @@
   src: url(fonts/Thesignature.ttf) format('opentype');
 
 }
+*{
+  margin: 0;
+  padding: 0;
+}
 
 body{
     margin:0;
@@ -145,6 +149,7 @@ body{
     color: rgb(0, 0, 0);
     font-family: 'assinatura';
     font-size: 3em;
+    text-align: center;
     
 
 
@@ -152,6 +157,9 @@ body{
  img{
   width: 300px;
  }
- a{
-  color: black;
+ p{
+  text-align: justify;
+  
  }
+ 
+ 
