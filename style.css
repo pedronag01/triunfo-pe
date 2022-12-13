@@ -141,10 +141,12 @@ body{
   }
   
   footer{
-    background: rgb(0, 0, 0);
-    color: rgb(255, 255, 255);
+    background: #ece7d5; 
+    color: rgb(0, 0, 0);
     font-family: 'assinatura';
-    font-size: 2em;
+    font-size: 3em;
+    
+
 
   }
  img{
