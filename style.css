@@ -1,3 +1,9 @@
+@font-face {
+  font-family:'assinatura' ;
+  src: url(fonts/Thesignature.ttf) format('opentype');
+
+}
+
 body{
     margin:0;
     padding:0;
@@ -137,6 +143,9 @@ body{
   footer{
     background: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
+    font-family: 'assinatura';
+    font-size: 2em;
+
   }
  img{
   width: 300px;
