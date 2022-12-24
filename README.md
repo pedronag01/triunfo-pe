@@ -1,2 +1,2 @@
-# triunfo-pe
- Triunfo Pernambuco
+# Triunfo-pe
+ Triunfo Pernambuco Brasil
